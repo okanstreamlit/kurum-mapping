@@ -9,6 +9,7 @@ st.set_page_config(layout="centered")
 col1, col2 = st.columns([0.1,1])
 with col1:
     print('\n')
+    print('\n')
     st.image('Bupa Logo.png', width = 90)
 
 with col2:
