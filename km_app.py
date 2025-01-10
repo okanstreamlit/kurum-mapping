@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 from sentence_transformers import SentenceTransformer, util
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="centered")
 
 col1, col2 = st.columns([0.1,1])
 with col1:
